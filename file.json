@@ -1,0 +1,35 @@
+{
+
+	"employee" : 
+		[
+			{
+				"name": "John Philip",
+				"age": "18",
+				"salary": "1.200.00",
+				"office":"Administrative Assistant"
+			},
+
+			{
+				"name": "Maria Anna",
+				"age": "23",
+				"salary": "2.340.00",
+				"office":"IT auxiliary"
+			},	
+
+			{
+				"name": "Fátima Silva",
+				"age": "37",
+				"salary": "1.250.00",
+				"office":"Office Assistant"
+			},	
+
+			{
+				"name": "Alex Souza",
+				"age": "21",
+				"salary": "1.550.00",
+				"office":"Telemarketing attendant"
+			}
+
+		]
+
+}
